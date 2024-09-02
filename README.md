@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me:<br>I'm a Data Analyst with expertise in data science, machine learning, and IoT. I love turning complex data into actionable insights.<br><br>🔍 Currently Working On:<br>Developing machine learning models and creating data visualizations to solve real-world problems.<br><br>🤝 Looking to Collaborate On:<br>Exciting projects in machine learning, IoT, or geospatial analysis.<br><br>💡 Looking for Help With:<br>Advanced machine learning algorithms and their practical applications.<br><br>📚 Currently Learning:<br>Deep learning techniques and scalable data processing.<br><br>💬 Ask Me About:<br>Data analytics, machine learning, IoT projects, and geospatial data analysis.<br><br>🎉 Fun Fact:<br>I built a chatbot that gives first aid recommendations based on user queries—combining my passion for tech and healthcare!<br><br>
+👋 About Me:<br>I'm a Data Analyst with expertise in data science, machine learning, and IoT. I love turning complex data into actionable insights,Your support fuels my caffeine and creativity, helping me learn, grow, and share awesome data projects with the world!<br><br>🔍 Currently Working On:<br>Developing machine learning models and creating data visualizations to solve real-world problems.<br><br>🤝 Looking to Collaborate On:<br>Exciting projects in machine learning, IoT, or geospatial analysis.<br><br>💡 Looking for Help With:<br>Advanced machine learning algorithms and their practical applications.<br><br>📚 Currently Learning:<br>Diving into deep learning and making data magic happen.<br><br>💬 Ask Me About:<br>Data analytics, machine learning, IoT projects, and geospatial data analysis.<br><br>🎉 Fun Fact:<br> I once built a smart waste system—talk about trash to treasure!<br><br>
 
 
 ## 🌐 Socials:
@@ -21,7 +21,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SAFAR-Aly&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 I Prefer Tea Over Coffee
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/safarkhan) 
 
   
